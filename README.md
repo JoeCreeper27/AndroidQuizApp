@@ -9,6 +9,7 @@
 - 利用data class裝載問題資料
 - 判斷式及邏輯運算子
 
+#### App畫面展示
 <img src="https://user-images.githubusercontent.com/95333662/154617689-6b763a65-18ae-4d2f-ac49-7494a5cce5db.png" width="200" height="355" /> <img src="https://user-images.githubusercontent.com/95333662/154618192-4a52c9b8-c2ad-474f-aeee-6a085520e0cb.png" width="200" height="355" />
 - Intput layout、material component運用設計
 - 建立intent儲存資料
